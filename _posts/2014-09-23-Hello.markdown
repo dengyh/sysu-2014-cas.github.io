@@ -113,10 +113,10 @@ inc:
       id:       false
 {% endhighlight %}
 
-**图片**
+###图片
+
 <div class="zoomable"><img src="/images/incorporated.jpg"></div>
 
-**引用**
-> “Effective companies tend to communicate more, their people are curious and they have opinions”
+###引用
 
-Stay tuned for updates.
+> “Effective companies tend to communicate more, their people are curious and they have opinions”
