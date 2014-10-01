@@ -7,8 +7,8 @@ inc:
 
   # Company information
   company:      SYSU-CAS-2014
-  url:          ttp://sysu-2014-cas.github.io/
-  about_link:   https://sysu-2014-cas.github.io/about/
+  url:          http://sysu-2014-cas.github.io/
+  about_link:   /about/
 
   # Product Information
   #product_link: http://sysu-2014-cas.github.io/
@@ -39,6 +39,7 @@ inc:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://sysu-2014-cas.github.io
+sicily:      http://www.soj.me
 source:      .
 destination: ./_site
 plugins:     ./_plugins
