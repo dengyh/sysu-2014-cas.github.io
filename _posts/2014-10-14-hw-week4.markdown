@@ -33,7 +33,7 @@ Chapter2：P3，P4，P7，P8，P9，P11，P14，P15，P21，P23
 下下周上课交。
 
 ###Web安全
-据说下周是Assignment 1死线，可是没说提交方式。
+据说本周是Assignment 1死线，可是没说提交方式。
 
 * Assignment 1.
   * Show me how MD5 works.
