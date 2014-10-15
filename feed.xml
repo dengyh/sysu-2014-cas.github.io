@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SYSU CAS 2014</title>
+    <link>http://sysu-2014-cas.github.io</link>
+    <atom:link href="http://sysu-2014-cas.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>SYSU, School of Software, Computer Application Software, Class 2014</description>
+    <language>en-us</language>
+    <pubDate>Wed, 15 Oct 2014 15:30:45 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2014 15:30:45 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>第四周作业</title>
+      <link>http://sysu-2014-cas.github.io/2014/10/14/hw-week4/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://sysu-2014-cas.github.io/2014/10/14/hw-week4</guid>
+      <description>&lt;h3 id=&quot;section&quot;&gt;算法分析与设计&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2014/10/01/hw-week2/&quot;&gt;郭老10月大礼包&lt;/a&gt;，30号前交1151解题报告。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2014/10/14/algorithm-oct-nov/&quot;&gt;郭老11月大礼包&lt;/a&gt;，11月月底交。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;数字图像处理&lt;/h3&gt;
+
+&lt;p&gt;参见&lt;a href=&quot;http://gitl.sysu.edu.cn/dip/doku.php&quot;&gt;课程主页&lt;/a&gt; HW1，10月21日前交。&lt;/p&gt;
+
+&lt;p&gt;2014-10-15 (重要)调课通知：
+10月22日数媒班和专选班的课都调至10月18日(星期六)上午3-5节(9:50开始)，地点B204。请大家相互告知。&lt;/p&gt;
+
+&lt;p&gt;温馨提示：第三章学完就要考傅立叶级数。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;计算机网络&lt;/h3&gt;
+&lt;p&gt;Chapter2：P3，P4，P7，P8，P9，P11，P14，P15，P21，P23&lt;/p&gt;
+
+&lt;p&gt;下下周上课交。&lt;/p&gt;
+
+&lt;h3 id=&quot;web&quot;&gt;Web安全&lt;/h3&gt;
+&lt;p&gt;据说本周是Assignment 1死线，可是没说提交方式。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assignment 1.
+    &lt;ul&gt;
+      &lt;li&gt;Show me how MD5 works.&lt;/li&gt;
+      &lt;li&gt;Design an executable MD5 program in C/C++ with some short samples.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Assignment 2. Write a short thesis on one of the three applications
+    &lt;ul&gt;
+      &lt;li&gt;MD5 and password protection.&lt;/li&gt;
+      &lt;li&gt;AES and Wi‐Fi protected access.&lt;/li&gt;
+      &lt;li&gt;RSA and electronic business.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>算法分析与设计 10月&11月sicily题目</title>
+      <link>http://sysu-2014-cas.github.io/2014/10/14/algorithm-oct-nov/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://sysu-2014-cas.github.io/2014/10/14/algorithm-oct-nov</guid>
+      <description>&lt;p&gt;10月14题，30号前交1151解题报告：&lt;a href=&quot;/2014/10/01/hw-week2/&quot;&gt;参见&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;11月24题：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1152&quot;&gt;1152&lt;/a&gt; 简单的马周游问题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1153&quot;&gt;1153&lt;/a&gt; 马周游问题,要求写解题报告&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1093&quot;&gt;1093&lt;/a&gt; 枚举&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1134&quot;&gt;1134&lt;/a&gt; 贪心:从小到大排序&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1140&quot;&gt;1140&lt;/a&gt; 贪心:砍不大于n/2个节点的最大树枝&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1438&quot;&gt;1438&lt;/a&gt; 排序，隔三求和&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1028&quot;&gt;1028&lt;/a&gt; 梵塔问题 -&amp;gt; 分治，归纳 -&amp;gt; * 题目有意思但要留意其数据规模较大&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1029&quot;&gt;1029&lt;/a&gt; 递推高精度加法&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1381&quot;&gt;1381&lt;/a&gt; a*b 高精度&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1206&quot;&gt;1206&lt;/a&gt; 数值计算:解方程&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1172&quot;&gt;1172&lt;/a&gt; 染色模拟&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1034&quot;&gt;1034&lt;/a&gt; 队列与搜索&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1193&quot;&gt;1193&lt;/a&gt; 递推 较难&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1004&quot;&gt;1004&lt;/a&gt; 计算几何，判两线段是否重叠&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1012&quot;&gt;1012&lt;/a&gt; 简单计算几何，判两线段是否重叠&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1017&quot;&gt;1017&lt;/a&gt; 二分法求一元方程的根&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1059&quot;&gt;1059&lt;/a&gt; 简单计算几何，求线段相交&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1003&quot;&gt;1003&lt;/a&gt; 模拟题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1018&quot;&gt;1018&lt;/a&gt; 模拟题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1052&quot;&gt;1052&lt;/a&gt; 简单模拟题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1041&quot;&gt;1041&lt;/a&gt; 中等模拟题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1211&quot;&gt;1211&lt;/a&gt; 分治，求两点间L步到达的方法数&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1071&quot;&gt;1071&lt;/a&gt; 分治&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1082&quot;&gt;1082&lt;/a&gt; 数据结构题&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>第二周作业</title>
+      <link>http://sysu-2014-cas.github.io/2014/10/01/hw-week2/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://sysu-2014-cas.github.io/2014/10/01/hw-week2</guid>
+      <description>&lt;h3 id=&quot;section&quot;&gt;算法分析与设计&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;例2.1 输入一串字符，以”?”结束,统计其中每个字符出现的次数.&lt;/p&gt;
+
+    &lt;p&gt;1.考虑数据结构:用一维数组存放每个字母出现的次数,定义一个由26个字母组成的数组：&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code&gt; Num:array[&#39;a&#39;..&#39;z&#39;]of integer
+&lt;/code&gt;&lt;/pre&gt;
+
+    &lt;p&gt;用&lt;code&gt;Num[&#39;a&#39;]&lt;/code&gt;记录字母a出现次数，…… 用&lt;code&gt;Num[&#39;z&#39;]&lt;/code&gt;记录字母z出现次数;&lt;/p&gt;
+
+    &lt;p&gt;2.算法：&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code&gt; 1）将数组元素清0
+ 2）读入第1个字符;
+ 3）WHILE 读入字符不等于‘？’ DO
+ BEGIN
+     4）IF ch 是字母 THEN 相应字母计数加1
+     5）读入下一个字符
+ END
+ 6）输出每个字母出现的次数。
+&lt;/code&gt;&lt;/pre&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;要求上机编程，用C++完成上述程序，并自行在机上运行，检测程序的正确性。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;将题目改成从文件读入，输出到文件中。要求有5组测试数据，文件输入：&lt;/p&gt;
+
+        &lt;ol&gt;
+          &lt;li&gt;第一组：10个字符；&lt;/li&gt;
+          &lt;li&gt;第二组：100个字符；&lt;/li&gt;
+          &lt;li&gt;第三组：1000个字符&lt;/li&gt;
+          &lt;li&gt;第四组：10000个字符；&lt;/li&gt;
+          &lt;li&gt;第五组：10万个字符；&lt;/li&gt;
+        &lt;/ol&gt;
+
+        &lt;p&gt;数据随机产生。&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;作业2.2 :简单魔板(&lt;a href=&quot;http://www.soj.me/1150&quot;&gt;sicily1150&lt;/a&gt;)&lt;/p&gt;
+
+    &lt;p&gt;（思路请直接看课件OTZ 排版不动了）&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1151&quot;&gt;1151&lt;/a&gt; 魔板B，&lt;strong&gt;要求写解题报告&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1515&quot;&gt;1515&lt;/a&gt; 魔板C&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1007&quot;&gt;1007&lt;/a&gt; 数组与下标（二维数组） 简单&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1036&quot;&gt;1036&lt;/a&gt; 数组与下标（二维数组） 简单&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1006&quot;&gt;1006&lt;/a&gt; 栈与回溯 简单  5!搜索&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1009&quot;&gt;1009&lt;/a&gt; 梅森素数&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1050&quot;&gt;1050&lt;/a&gt; 回溯， DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1443&quot;&gt;1443&lt;/a&gt; 基本队列操作&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1156&quot;&gt;1156&lt;/a&gt; 深优 指针 简单树的遍历&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1063&quot;&gt;1063&lt;/a&gt; 排序后递推&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1024&quot;&gt;1024&lt;/a&gt; 树的遍历&lt;/li&gt;
+  &lt;li&gt;作业3.1 Sicily &lt;a href=&quot;http://www.soj.me/1152&quot;&gt;1152&lt;/a&gt; 简单的马周游问题&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>第一周作业</title>
+      <link>http://sysu-2014-cas.github.io/2014/09/27/hw-week1/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://sysu-2014-cas.github.io/2014/09/27/hw-week1</guid>
+      <description>&lt;h3 id=&quot;section&quot;&gt;算法分析与设计&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1020&quot;&gt;1020&lt;/a&gt; 大数求模&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1021&quot;&gt;1021&lt;/a&gt; 简单题 -&amp;gt; 规模原来很大 -&amp;gt; 难 -&amp;gt;数据结构: 栈&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1027&quot;&gt;1027&lt;/a&gt; 简单题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1035&quot;&gt;1035&lt;/a&gt; 简单题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1046&quot;&gt;1046&lt;/a&gt; 排序&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1051&quot;&gt;1051&lt;/a&gt; 简单题&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1198&quot;&gt;1198&lt;/a&gt; 8个串排出最小字典序(8!枚举）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soj.me/1176&quot;&gt;1176&lt;/a&gt; 两人从两头取数&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;计算机网络&lt;/h3&gt;
+&lt;p&gt;Due 9/30 in class.&lt;/p&gt;
+
+&lt;p&gt;Problems in Chapter 1: p5, p7, p13, p18, p20, p24&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://sysu-2014-cas.github.io/2014/09/23/Hello/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://sysu-2014-cas.github.io/2014/09/23/Hello</guid>
+      <description>&lt;p&gt;这里是12级计应的主页~&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;使用说明:&lt;/h3&gt;
+
+&lt;p&gt;请先加入&lt;a href=&quot;https://github.com/sysu-2014-cas&quot;&gt;https://github.com/sysu-2014-cas&lt;/a&gt;
+并且通知管理员成为collaborator。&lt;/p&gt;
+
+&lt;p&gt;然后clone这个repo（需要设置好ssh）&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git clone git@github.com:sysu-2014-cas/sysu-2014-cas.github.io.git
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;安装rvm，ruby，nvm，node.js，bundler。&lt;/p&gt;
+
+&lt;p&gt;然后在&lt;code&gt;_post&lt;/code&gt;里写新文章，用&lt;code&gt;git push&lt;/code&gt;推到远程仓库保存文章（gh-pages分支），接着用&lt;code&gt;rake site:publish&lt;/code&gt;发布。注意：不要手动push到master分支，master分支应当由rake来推。手动推来保存文章的应当是默认的gh-pages分支。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;自定义功能&lt;/h3&gt;
+&lt;p&gt;在markdown文件里可以自定义文章的题图，作者，摘要等:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;post&lt;/span&gt;
+
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Jekyll Incorporated Features&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;subtitle&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;What&amp;#39;s&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;the&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;box&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Setup post cover image in /images/&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;cover_image&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;blog-cover.jpg&lt;/span&gt;
+
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;excerpt&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Incorporated&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;provides&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;great&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;typography,&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;responsive&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;design,&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;details,&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;semantic&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;markup&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;and&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;more.&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Author details, including Google Plus authorship&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Karri Saarinen&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;karrisaarinen&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;gplus&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;100687498195339762535&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Co-founder, Design&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;ks.jpg&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Keep it as draft, not published in index.html or feed.xml&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;draft&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;配置 &amp;amp; 代码高亮&lt;/h4&gt;
+
+&lt;p&gt;/assets/stylesheets/main.scss:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/* Bodytext font */&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Droid Sans&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Helvetica Neue&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Helvetica&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Arial&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;cm&quot;&gt;/* Font for headings */&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$fontheadings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Droid Sans&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Helvetica Neue&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Helvetica&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Arial&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;cm&quot;&gt;/* Text colors */&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;#21272d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$textmuted&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;#848484&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$accent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;#2077b2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;config.yml:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;inc&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;# Blog Information&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;        &lt;span class=&quot;s&quot;&gt;&amp;quot;Jekyll&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Incorporated&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;subtitle&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;     &lt;span class=&quot;s&quot;&gt;&amp;quot;Modern&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;based&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;blog&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;companies&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;cover_image&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;blog-cover.jpg&lt;/span&gt;
+
+  &lt;span class=&quot;c1&quot;&gt;# Company information&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;company&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;Incorporated&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;          &lt;span class=&quot;l-Scalar-Plain&quot;&gt;http://incorporated.sendtoinc.com/&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;facebook&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;     &lt;span class=&quot;l-Scalar-Plain&quot;&gt;sendtoinc&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;sendtoinc&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;about_link&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;l-Scalar-Plain&quot;&gt;https://sendtoinc.com/about/&lt;/span&gt;
+
+  &lt;span class=&quot;c1&quot;&gt;# Product Information&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;product_link&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;http://incorporated.sendtoinc.com/&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;tagline&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;s&quot;&gt;&amp;quot;Get&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;modern&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;blog&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;your&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;company&amp;quot;&lt;/span&gt;
+
+  &lt;span class=&quot;c1&quot;&gt;# Comments&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;disqus&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# Eg. &amp;quot;exampleblog&amp;quot; Set to false to disable comments&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;shortname&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;
+
+
+  &lt;span class=&quot;c1&quot;&gt;# Sharing settings&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;sharing&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;facebook&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;gplus&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;hn&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;         &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;
+
+
+ &lt;span class=&quot;c1&quot;&gt;# Analytics&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;analytics&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;google&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;c1&quot;&gt;# eg. &amp;#39;UA-123-12&amp;#39;&lt;/span&gt;
+      &lt;span class=&quot;l-Scalar-Plain&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;       &lt;span class=&quot;l-Scalar-Plain&quot;&gt;false&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;图片&lt;/h3&gt;
+
+&lt;div class=&quot;zoomable&quot;&gt;&lt;img src=&quot;/images/incorporated.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;引用&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Effective companies tend to communicate more, their people are curious and they have opinions”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    
+
+  </channel>
+</rss>

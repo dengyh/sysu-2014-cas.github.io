@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>第二周作业 &mdash; SYSU CAS 2014</title>
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/logo.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="SYSU CAS 2014" />
+    <meta name="title" content="第二周作业 ">
+    <link rel="canonical" href="http://sysu-2014-cas.github.io/2014/10/01/hw-week2/">
+    <meta property="og:title" content="第二周作业 "/>
+    <meta property="og:url" content="http://sysu-2014-cas.github.io/2014/10/01/hw-week2/"/>
+    
+    <meta property="og:image" content="http://sysu-2014-cas.github.io/images/homework.jpg"/>
+    
+    <meta property="og:image" content="http://sysu-2014-cas.github.io/images/logo.png"/>   
+    
+    
+    <meta property="og:description" content="2014学年第二周作业"/>
+    <meta name="description" content="2014学年第二周作业"/>
+    
+    <meta property="og:site_name" content="SYSU CAS 2014">     
+</head>
+<body>
+    
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/logo.png" alt="Inc">
+            </a>
+            <a href="/" class="home">Blog</a>
+            
+            <a href="/about/">About</a>
+        </nav>
+        <nav class="tagline">
+            <span>我们的计应</span>
+            
+        </nav>
+    </header>
+</section>
+
+
+<div class="article-cover">
+    <div>
+        <img src="/images/homework.jpg" class="image">
+    </div>
+</div>
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                By <address><a rel="author" href="" title="Joyee Cheung" target="_blank">Joyee Cheung</a></address> &mdash;
+                <time pubdate datetime="2014-01-October" title="October 01, 2014">October 01, 2014</time>
+            </div>
+            <h1 class="title">第二周作业</h1>
+            
+        </header>
+
+        <section>
+            <h3 id="section">算法分析与设计</h3>
+
+<ol>
+  <li>
+    <p>例2.1 输入一串字符，以”?”结束,统计其中每个字符出现的次数.</p>
+
+    <p>1.考虑数据结构:用一维数组存放每个字母出现的次数,定义一个由26个字母组成的数组：</p>
+
+    <pre><code> Num:array['a'..'z']of integer
+</code></pre>
+
+    <p>用<code>Num['a']</code>记录字母a出现次数，…… 用<code>Num['z']</code>记录字母z出现次数;</p>
+
+    <p>2.算法：</p>
+
+    <pre><code> 1）将数组元素清0
+ 2）读入第1个字符;
+ 3）WHILE 读入字符不等于‘？’ DO
+ BEGIN
+     4）IF ch 是字母 THEN 相应字母计数加1
+     5）读入下一个字符
+ END
+ 6）输出每个字母出现的次数。
+</code></pre>
+
+    <ol>
+      <li>
+        <p>要求上机编程，用C++完成上述程序，并自行在机上运行，检测程序的正确性。</p>
+      </li>
+      <li>
+        <p>将题目改成从文件读入，输出到文件中。要求有5组测试数据，文件输入：</p>
+
+        <ol>
+          <li>第一组：10个字符；</li>
+          <li>第二组：100个字符；</li>
+          <li>第三组：1000个字符</li>
+          <li>第四组：10000个字符；</li>
+          <li>第五组：10万个字符；</li>
+        </ol>
+
+        <p>数据随机产生。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>作业2.2 :简单魔板(<a href="http://www.soj.me/1150">sicily1150</a>)</p>
+
+    <p>（思路请直接看课件OTZ 排版不动了）</p>
+  </li>
+  <li><a href="http://www.soj.me/1151">1151</a> 魔板B，<strong>要求写解题报告</strong></li>
+  <li><a href="http://www.soj.me/1515">1515</a> 魔板C</li>
+  <li><a href="http://www.soj.me/1007">1007</a> 数组与下标（二维数组） 简单</li>
+  <li><a href="http://www.soj.me/1036">1036</a> 数组与下标（二维数组） 简单</li>
+  <li><a href="http://www.soj.me/1006">1006</a> 栈与回溯 简单  5!搜索</li>
+  <li><a href="http://www.soj.me/1009">1009</a> 梅森素数</li>
+  <li><a href="http://www.soj.me/1050">1050</a> 回溯， DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.</li>
+  <li><a href="http://www.soj.me/1443">1443</a> 基本队列操作</li>
+  <li><a href="http://www.soj.me/1156">1156</a> 深优 指针 简单树的遍历</li>
+  <li><a href="http://www.soj.me/1063">1063</a> 排序后递推</li>
+  <li><a href="http://www.soj.me/1024">1024</a> 树的遍历</li>
+  <li>作业3.1 Sicily <a href="http://www.soj.me/1152">1152</a> 简单的马周游问题</li>
+</ol>
+
+            
+        </section>
+
+        <footer>
+            <address>
+               <img src="/images/joyee.png">
+                <p>Written by <strong><a rel="author" href="mailto://joyeec9h3@gmail.com" title="">Joyee Cheung</a></strong><br>
+                <span class="muted">12计应 张秋怡</span>
+                </p>
+            </address>
+
+        </footer>
+
+        
+    </div>
+</article>
+
+
+<footer class="site-footer">
+    <div class="container">
+        &copy; 2014 
+        
+        <nav>
+            <a href="http://sysu-2014-cas.github.io/">SYSU-CAS-2014</a> &middot;
+            <a href="/">Blog</a> &middot;
+            
+            <a href="/about/">About</a>
+        </nav>
+        
+        <nav class="social">
+            
+                
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss black"></i>
+            </a>
+        </nav>
+        <p>Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
+    </div>
+</footer>
+
+<script src="/assets/jquery.min.js"></script>
+<script src="/assets/main.js"></script>
+
+
+</body>
+</html>
